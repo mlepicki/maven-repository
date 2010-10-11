@@ -1,1 +1,10 @@
-This is Maven repository for my projects, hosted on the github and managed via git. 
+This is Maven repository for my projects, hosted on the github and managed via git.
+
+Repo URL: http://mlepicki.github.com/maven-repository/repository/ 
+
+Currently there are 3 libs: 
+- as3crypto 1.3
+- oauth-as3 from my own repo http://github.com/mlepicki/oauth-as3
+- parsley-flex 2.3.1 
+
+To create your own maven repo see http://chkal.blogspot.com/2010/09/maven-repositories-on-github.html
